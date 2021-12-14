@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson14_1</string>
+
+    <string name="facebook_app_id">228172919452120</string>
+    <string name="fb_login_protocol_scheme">fb228172919452120</string>
+
+</resources>
